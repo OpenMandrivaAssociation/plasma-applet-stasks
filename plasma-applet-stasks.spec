@@ -6,7 +6,7 @@ Name:		     plasma-applet-stasks
 Version:	     %{version}
 Release:	     %{release}
 License:	     GPLv2+
-Url:		     http://www.kde.org/ 
+Url:		     https://www.kde.org/ 
 Group:		     Graphical desktop/KDE
 Source0:	     99739-stasks-0.5.1.tar.gz
 Summary:         Plasmoid that allow to improve taskbar eye candy

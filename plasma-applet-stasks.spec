@@ -11,6 +11,7 @@ Group:		     Graphical desktop/KDE
 Source0:	     99739-stasks-0.5.1.tar.gz
 Summary:         Plasmoid that allow to improve taskbar eye candy
 BuildRoot:       %{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires:   kdelibs4-devel
 BuildRequires:   kdebase4-workspace-devel
 Provides:        plasma-applet
